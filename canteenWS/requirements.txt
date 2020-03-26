@@ -8,4 +8,4 @@ requests==2.21.0
 requests-oauthlib==1.0.0
 uhashring==1.1
 Werkzeug==0.16.0
-urllib3==1.23
+urllib3==1.24.2
